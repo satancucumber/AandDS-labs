@@ -105,12 +105,12 @@ public:
 // Прямоугольник
 class rectangle : public rotatable {
 /* nw ------ n ------ ne
-   |		       |
-   |		       |
-   w	   c            e
-   |		       |
-   |		       |
-   sw ------- s ------ se */
+   |		               |
+   |		               |
+   w	       c         e
+   |		               |
+   |		               |
+   sw -------s ------ se */
 protected:
   point sw, ne;
 public:

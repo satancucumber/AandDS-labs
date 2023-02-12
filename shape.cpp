@@ -4,8 +4,6 @@ using namespace std;
 #include "screen.h"
 #include "shape.h"
 
-
-
 // ПРИМЕР ДОБАВКИ: дополнительный фрагмент - полуокружность
 class h_circle: public rectangle, public reflectable {
   bool reflected;
@@ -35,6 +33,35 @@ void down(shape &p,  const shape &q)
 {    point n = q.south( );
      point s = p.north( );
      p.move(n.x - s.x, n.y - s.y - 1); }
+
+//Дополнительный фрагмент - прямоугольный треугольник
+class r_triangle: public rectangle, public reflectable {
+    /*
+    nw ------ n ------ ne
+    |  *            *   |
+    |     *      *      |
+    w        * *        e
+    |       *   *       |
+    |    *         *    |
+    sw------- s ------ se
+    */
+    bool reflected;
+    bool rotated;
+public:
+    r_triangle(point a, point b, bool r=true) : rectangle(a, b), reflected(r) { }
+	void draw();
+	void flip_horisontally( ) { }; // Отразить горизонтально (пустая функция)
+	void flip_vertically( ) { reflected = !reflected; };	// Отразить вертикально
+};
+void r_triangle :: draw()
+{
+    //put_line(nwest( ), ne);   put_line(ne, seast( ));
+    put_line(seast( ), sw);   
+    put_line(sw, nwest( ));
+    put_line(nwest( ), seast( ));
+}
+//void r_tringle :: 
+
 // Cборная пользовательская фигура - физиономия
 class myshape : public rectangle { // Моя фигура ЯВЛЯЕТСЯ
      int w, h;			             //        прямоугольником
@@ -76,6 +103,7 @@ int main( )
 	line brim(point(0,15),17);
 	myshape face(point(15,10), point(27,18));
 	h_circle beard(point(40,10), point(50,20));
+    r_triangle pizza(point(40,10), point(50,20));
 	shape_refresh( );
 	std::cout << "=== Generated... ===\n";
 	std::cin.get(); //Смотреть исходный набор
@@ -84,6 +112,7 @@ int main( )
 	brim.resize(2);
 	face.resize(2);
 	beard.flip_vertically();
+    pizza.rotate_right();
     shape_refresh( );
 	std::cout << "=== Prepared... ===\n";
 	std::cin.get(); //Смотреть результат поворотов/отражений
