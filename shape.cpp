@@ -46,21 +46,99 @@ class r_triangle: public rectangle, public reflectable {
     sw------- s ------ se
     */
     bool reflected;
-    bool rotated;
+    int rotated = 1;
 public:
     r_triangle(point a, point b, bool r=true) : rectangle(a, b), reflected(r) { }
 	void draw();
-	void flip_horisontally( ) { }; // Отразить горизонтально (пустая функция)
-	void flip_vertically( ) { reflected = !reflected; };	// Отразить вертикально
+	void flip_horisontally( ); // Отразить горизонтально (пустая функция)
+	void flip_vertically( ); //{ reflected = !reflected; };	// Отразить вертикально
+    void rotate_right();
+    void rotate_left();
 };
 void r_triangle :: draw()
 {
     //put_line(nwest( ), ne);   put_line(ne, seast( ));
-    put_line(seast( ), sw);   
-    put_line(sw, nwest( ));
-    put_line(nwest( ), seast( ));
+    if (rotated == 1) {
+        put_line(seast(), sw);
+        put_line(sw, nwest());
+        put_line(nwest(), seast());
+    } else if (rotated == 2) {
+        put_line(nwest(), ne);
+        put_line(sw, ne);
+        put_line(nwest(), sw);
+    } else if (rotated == 3) {
+        put_line(nwest(), ne);
+        put_line(seast(), ne);
+        put_line(seast(), nwest());
+    } else if (rotated == 4) {
+        put_line(sw, ne);
+        put_line(seast(), ne);
+        put_line(seast(), sw);
+    }
 }
-//void r_tringle :: 
+
+void r_triangle :: rotate_right() {
+    int w = ne.x - sw.x, h = ne.y - sw.y; //(учитывается масштаб по осям)
+    sw.x = ne.x - h * 2; ne.y = sw.y + w / 2;
+
+    rotated += 1;
+    if (rotated == 5) {
+        rotated = 1;
+    }
+}
+
+void r_triangle :: rotate_left() {
+    int w = ne.x - sw.x, h = ne.y - sw.y;
+    ne.x = sw.x + h * 2; ne.y = sw.y + w / 2;
+
+    rotated -= 1;
+    if (rotated == 0) {
+        rotated = 4;
+    }
+}
+
+void r_triangle :: flip_horisontally( ) {
+    point new_sw;
+    point new_ne;
+    new_sw.y = sw.y + (sw.y - nwest().y);
+    new_sw.x = sw.x;
+    new_ne = seast();
+
+    this->ne = new_ne;
+    this->sw = new_sw;
+
+    if (rotated == 1) {
+        this->rotated = 2;
+    } else if (rotated == 2) {
+        this->rotated = 1;
+    } else if (rotated == 3) {
+        this->rotated = 4;
+    } else if (rotated == 4) {
+        this->rotated = 3;
+    }
+}
+
+void r_triangle :: flip_vertically() {
+    point new_sw;
+    point new_ne;
+    new_ne.x = ne.x + (ne.x - nwest().x);
+    new_ne.y = ne.y;
+    new_sw = seast();
+
+    this->ne = new_ne;
+    this->sw = new_sw;
+
+
+    if (rotated == 1) {
+        this->rotated = 4;
+    } else if (rotated == 2) {
+        this->rotated = 3;
+    } else if (rotated == 3) {
+        this->rotated = 2;
+    } else if (rotated == 4) {
+        this->rotated = 1;
+    }
+}
 
 // Cборная пользовательская фигура - физиономия
 class myshape : public rectangle { // Моя фигура ЯВЛЯЕТСЯ
@@ -112,7 +190,7 @@ int main( )
 	brim.resize(2);
 	face.resize(2);
 	beard.flip_vertically();
-    pizza.rotate_right();
+    pizza.flip_vertically();
     shape_refresh( );
 	std::cout << "=== Prepared... ===\n";
 	std::cin.get(); //Смотреть результат поворотов/отражений
