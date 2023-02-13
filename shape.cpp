@@ -100,6 +100,7 @@ int main( )
 	screen_init( );
 //== 1.Объявление набора фигур ==
 	rectangle hat(point(0, 0), point(14, 5));
+    
 	line brim(point(0,15),17);
 	myshape face(point(15,10), point(27,18));
 	h_circle beard(point(40,10), point(50,20));
