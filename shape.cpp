@@ -4,31 +4,7 @@ using namespace std;
 #include "screen.h"
 #include "shape.h"
 
-// ПРИМЕР ДОБАВКИ: дополнительный фрагмент - полуокружность
-class h_circle: public rectangle, public reflectable {
-  bool reflected;
-public:
-	h_circle(point a, point b, bool r=true) : rectangle(a, b), reflected(r) { }
-	void draw();
-	void flip_horisontally( ) { }; // Отразить горизонтально (пустая функция)
-	void flip_vertically( ) { reflected = !reflected; };	// Отразить вертикально
-};
-void h_circle :: draw() //Алгоритм Брезенхэма для окружностей
-{   //(выдаются два сектора, указываемые значением reflected)
-    int x0 = (sw.x + ne.x)/2, y0 = reflected ? sw.y : ne.y;
-	int radius = (ne.x - sw.x)/2;
-	int x = 0, y = radius, delta = 2 - 2 * radius, error = 0;
-    while(y >= 0) { // Цикл рисования
-	    if(reflected) { put_point(x0 + x, y0 + y*0.7); put_point(x0 - x, y0 + y*0.7); }
-	    else { put_point(x0 + x, y0 - y*0.7); put_point(x0 - x, y0 - y*0.7); }
-       error = 2 * (delta + y) - 1;
-       if(delta < 0 && error <= 0) { ++x; delta += 2 * x + 1; continue; }
-       error = 2 * (delta - x) - 1;
-       if(delta > 0 && error > 0) { --y; delta += 1 - 2 * y; continue; }
-       ++x; delta += 2 * (x - y);  --y;
-	   }
-}
-// ПРИМЕР ДОБАВКИ: дополнительная функция присоединения…
+// дополнительная функция присоединения снизу
 void down(shape &p,  const shape &q)
 {    point n = q.south( );
      point s = p.north( );
@@ -57,7 +33,7 @@ class r_triangle: public rectangle, public reflectable {
     sw------- s ------ se
     */
     bool reflected;
-    int rotated = 1;
+    int rotated = 1; // переменная для определения положения наклона треугольника
 public:
     r_triangle(point a, point b, bool r=true) : rectangle(a, b), reflected(r) { }
 	void draw();
@@ -66,9 +42,9 @@ public:
     void rotate_right();
     void rotate_left();
 };
+// переопределение функции-члена для рисования фигуры
 void r_triangle :: draw()
 {
-    //put_line(nwest( ), ne);   put_line(ne, seast( ));
     if (rotated == 1) {
         put_line(seast(), sw);
         put_line(sw, nwest());
@@ -87,7 +63,7 @@ void r_triangle :: draw()
         put_line(seast(), sw);
     }
 }
-
+// переопределение функции-члена для поворота направо
 void r_triangle :: rotate_right() {
     int w = ne.x - sw.x, h = ne.y - sw.y; //(учитывается масштаб по осям)
     sw.x = ne.x - h * 2; ne.y = sw.y + w / 2;
@@ -97,7 +73,7 @@ void r_triangle :: rotate_right() {
         rotated = 1;
     }
 }
-
+// переопределение функции-члена для поворота налево
 void r_triangle :: rotate_left() {
     int w = ne.x - sw.x, h = ne.y - sw.y;
     ne.x = sw.x + h * 2; ne.y = sw.y + w / 2;
@@ -107,7 +83,7 @@ void r_triangle :: rotate_left() {
         rotated = 4;
     }
 }
-
+// переопределение функции-члена для отражения по-горизонтали
 void r_triangle :: flip_horisontally( ) {
     point new_sw;
     point new_ne;
@@ -128,7 +104,7 @@ void r_triangle :: flip_horisontally( ) {
         this->rotated = 3;
     }
 }
-
+// переопределение функции-члена для отражения по-вертикали
 void r_triangle :: flip_vertically() {
     point new_sw;
     point new_ne;
@@ -190,13 +166,11 @@ int main( )
 {   setlocale(LC_ALL, "Rus");
 	screen_init( );
 //== 1.Объявление набора фигур ==
-	rectangle hat(point(0, 0), point(14, 5));
-    
-	line brim(point(0,15),17);
-	myshape face(point(15,10), point(27,18));
-	//h_circle beard(point(40,10), point(50,20));
-	r_triangle beard(point(40,10), point(50,20));
-    r_triangle pizza(point(60,20), point(65,23));
+	rectangle hat(point(0, 0), point(14, 5));  // прямоугольная шляпа
+	line brim(point(0,15),17);                 // линия-край шляпы
+	myshape face(point(15,10), point(27,18));     // класс-лицо
+	r_triangle beard(point(40,10), point(50,20));  // прямоугольный треугольник - борода
+    r_triangle pizza(point(60,20), point(65,23));  // прямоугольный треугольник - эмблема на шляпе
 	shape_refresh( );
 	std::cout << "=== Generated... ===\n";
 	std::cin.get(); //Смотреть исходный набор
@@ -204,10 +178,9 @@ int main( )
 	hat.rotate_right( );
 	brim.resize(2);
 	face.resize(2);
-	beard.flip_horisontally();
-	face.l_eye.rotate_left();
-	face.r_eye.rotate_right();
-    //pizza.flip_vertically();
+	beard.flip_horisontally();   // бородп отражается по горизонтали
+	face.l_eye.rotate_left();    // левый глаз поворачивается налево
+	face.r_eye.rotate_right();   // правый глаз поворачивается направо
     shape_refresh( );
 	std::cout << "=== Prepared... ===\n";
 	std::cin.get(); //Смотреть результат поворотов/отражений
@@ -215,8 +188,8 @@ int main( )
 //	face.move(0, -10); // Лицо - в исходное положение
 	up(brim, face);
 	up(hat, brim);
-	down(beard, face);
-	center(pizza, hat);
+	down(beard, face);    // борода присоединяется к лицу снизу
+	center(pizza, hat);   // эмблема присоединяется в центр шляпы
 	shape_refresh( );
 	std::cout << "=== Ready! ===\n";
 	std::cin.get(); //Смотреть результат
