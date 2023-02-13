@@ -34,6 +34,17 @@ void down(shape &p,  const shape &q)
      point s = p.north( );
      p.move(n.x - s.x, n.y - s.y - 1); }
 
+// дополнительная функция размещения в центре
+void center(shape &p,  const shape &q)
+{
+	point cq;
+    point cp;
+	cq.x = q.north().x;
+	cq.y = q.west().y;
+	cp = p.south();
+    p.move(cq.x - cp.x, cq.y - cp.y - 1);
+}
+
 //Дополнительный фрагмент - прямоугольный треугольник
 class r_triangle: public rectangle, public reflectable {
     /*
@@ -143,10 +154,12 @@ void r_triangle :: flip_vertically() {
 // Cборная пользовательская фигура - физиономия
 class myshape : public rectangle { // Моя фигура ЯВЛЯЕТСЯ
      int w, h;			             //        прямоугольником
-     line l_eye; // левый глаз – моя фигура СОДЕРЖИТ линию
-     line r_eye; // правый глаз
+     
      line mouth; // рот
   public:
+  //глаза перемещены в public для поворота и отражения треугольников
+  	 r_triangle l_eye; // левый глаз 
+     r_triangle r_eye; // правый глаз
      myshape(point, point);
      void draw( );
      void move(int, int);
@@ -156,8 +169,8 @@ myshape :: myshape(point a, point b)
 	: rectangle(a, b),	//Инициализация базового класса
 	  w(neast( ).x - swest( ).x + 1), // Инициализация данных
 	  h(neast( ).y - swest( ).y + 1), // - строго в порядке объявления!
-	  l_eye(point(swest( ).x + 2, swest( ).y + h * 3 / 4), 2),
-	  r_eye(point(swest( ).x + w - 4, swest( ).y + h * 3 / 4), 2),
+	  l_eye(point(swest( ).x + w/8 + 1, swest( ).y + h * 3 / 4), point(swest( ).x + w/8 + 1 + w/4, swest( ).y + h * 3 / 4 + h/6)),
+	  r_eye(point(swest( ).x + w - w/8 - 1 - 1 - w/4, swest( ).y + h * 3 / 4), point(swest( ).x + w - w/8 - 1 - 1, swest( ).y + h * 3 / 4 + h/6)),
 	  mouth(point(swest( ).x + 2, swest( ).y + h / 4), w - 4) 
 { }
 void myshape :: draw( )
@@ -181,8 +194,9 @@ int main( )
     
 	line brim(point(0,15),17);
 	myshape face(point(15,10), point(27,18));
-	h_circle beard(point(40,10), point(50,20));
-    r_triangle pizza(point(40,10), point(50,20));
+	//h_circle beard(point(40,10), point(50,20));
+	r_triangle beard(point(40,10), point(50,20));
+    r_triangle pizza(point(60,20), point(65,23));
 	shape_refresh( );
 	std::cout << "=== Generated... ===\n";
 	std::cin.get(); //Смотреть исходный набор
@@ -190,8 +204,10 @@ int main( )
 	hat.rotate_right( );
 	brim.resize(2);
 	face.resize(2);
-	beard.flip_vertically();
-    pizza.flip_vertically();
+	beard.flip_horisontally();
+	face.l_eye.rotate_left();
+	face.r_eye.rotate_right();
+    //pizza.flip_vertically();
     shape_refresh( );
 	std::cout << "=== Prepared... ===\n";
 	std::cin.get(); //Смотреть результат поворотов/отражений
@@ -200,6 +216,7 @@ int main( )
 	up(brim, face);
 	up(hat, brim);
 	down(beard, face);
+	center(pizza, hat);
 	shape_refresh( );
 	std::cout << "=== Ready! ===\n";
 	std::cin.get(); //Смотреть результат
