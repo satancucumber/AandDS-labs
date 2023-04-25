@@ -1,0 +1,1406 @@
+Power of the set: 19. Mode: MERGE. The time: 2 ms
+Power of the set: 98. Mode: EXCL. The time: 1 ms
+Power of the set: 101. Mode: EXCL. The time: 1 ms
+Power of the set: 68. Mode: MERGE. The time: 1 ms
+Power of the set: 83. Mode: MERGE. The time: 5 ms
+Power of the set: 76. Mode: MERGE. The time: 3 ms
+Power of the set: 32. Mode: MERGE. The time: 1 ms
+Power of the set: 102. Mode: EXCL. The time: 3 ms
+Power of the set: 83. Mode: EXCL. The time: 1 ms
+Power of the set: 79. Mode: MERGE. The time: 5 ms
+Power of the set: 90. Mode: EXCL. The time: 3 ms
+Power of the set: 87. Mode: MERGE. The time: 3 ms
+Power of the set: 54. Mode: MERGE. The time: 4 ms
+Power of the set: 34. Mode: MERGE. The time: 2 ms
+Power of the set: 40. Mode: EXCL. The time: 1 ms
+Power of the set: 101. Mode: MERGE. The time: 3 ms
+Power of the set: 22. Mode: EXCL. The time: 1 ms
+Power of the set: 47. Mode: MERGE. The time: 2 ms
+Power of the set: 86. Mode: MERGE. The time: 4 ms
+Power of the set: 84. Mode: EXCL. The time: 2 ms
+Power of the set: 10. Mode: EXCL. The time: 1 ms
+Power of the set: 87. Mode: EXCL. The time: 0 ms
+Power of the set: 19. Mode: MERGE. The time: 2 ms
+Power of the set: 26. Mode: MERGE. The time: 1 ms
+Power of the set: 46. Mode: EXCL. The time: 2 ms
+Power of the set: 55. Mode: EXCL. The time: 1 ms
+Power of the set: 100. Mode: EXCL. The time: 3 ms
+Power of the set: 90. Mode: EXCL. The time: 2 ms
+Power of the set: 100. Mode: MERGE. The time: 5 ms
+Power of the set: 79. Mode: EXCL. The time: 1 ms
+Power of the set: 16. Mode: MERGE. The time: 3 ms
+Power of the set: 24. Mode: EXCL. The time: 2 ms
+Power of the set: 80. Mode: MERGE. The time: 4 ms
+Power of the set: 31. Mode: MERGE. The time: 0 ms
+Power of the set: 78. Mode: MERGE. The time: 6 ms
+Power of the set: 17. Mode: MERGE. The time: 1 ms
+Power of the set: 33. Mode: MERGE. The time: 3 ms
+Power of the set: 67. Mode: MERGE. The time: 5 ms
+Power of the set: 81. Mode: MERGE. The time: 4 ms
+Power of the set: 102. Mode: MERGE. The time: 6 ms
+Power of the set: 30. Mode: EXCL. The time: 1 ms
+Power of the set: 100. Mode: MERGE. The time: 3 ms
+Power of the set: 10. Mode: MERGE. The time: 2 ms
+Power of the set: 81. Mode: MERGE. The time: 5 ms
+Power of the set: 95. Mode: EXCL. The time: 1 ms
+Power of the set: 104. Mode: MERGE. The time: 7 ms
+Power of the set: 44. Mode: MERGE. The time: 1 ms
+Power of the set: 97. Mode: EXCL. The time: 2 ms
+Power of the set: 102. Mode: MERGE. The time: 3 ms
+Power of the set: 89. Mode: MERGE. The time: 5 ms
+Power of the set: 75. Mode: EXCL. The time: 2 ms
+Power of the set: 89. Mode: MERGE. The time: 4 ms
+Power of the set: 100. Mode: EXCL. The time: 1 ms
+Power of the set: 15. Mode: MERGE. The time: 1 ms
+Power of the set: 20. Mode: EXCL. The time: 1 ms
+Power of the set: 23. Mode: EXCL. The time: 0 ms
+Power of the set: 67. Mode: EXCL. The time: 2 ms
+Power of the set: 33. Mode: EXCL. The time: 1 ms
+Power of the set: 16. Mode: EXCL. The time: 1 ms
+Power of the set: 87. Mode: MERGE. The time: 2 ms
+Power of the set: 55. Mode: EXCL. The time: 1 ms
+Power of the set: 34. Mode: EXCL. The time: 2 ms
+Power of the set: 23. Mode: MERGE. The time: 2 ms
+Power of the set: 81. Mode: MERGE. The time: 2 ms
+Power of the set: 102. Mode: MERGE. The time: 5 ms
+Power of the set: 25. Mode: MERGE. The time: 3 ms
+Power of the set: 27. Mode: MERGE. The time: 0 ms
+Power of the set: 91. Mode: MERGE. The time: 5 ms
+Power of the set: 64. Mode: MERGE. The time: 3 ms
+Power of the set: 59. Mode: EXCL. The time: 1 ms
+Power of the set: 70. Mode: EXCL. The time: 1 ms
+Power of the set: 33. Mode: EXCL. The time: 1 ms
+Power of the set: 42. Mode: EXCL. The time: 1 ms
+Power of the set: 57. Mode: EXCL. The time: 1 ms
+Power of the set: 89. Mode: EXCL. The time: 0 ms
+Power of the set: 90. Mode: MERGE. The time: 2 ms
+Power of the set: 54. Mode: MERGE. The time: 2 ms
+Power of the set: 103. Mode: EXCL. The time: 2 ms
+Power of the set: 84. Mode: EXCL. The time: 2 ms
+Power of the set: 39. Mode: MERGE. The time: 1 ms
+Power of the set: 34. Mode: MERGE. The time: 2 ms
+Power of the set: 85. Mode: EXCL. The time: 2 ms
+Power of the set: 90. Mode: MERGE. The time: 3 ms
+Power of the set: 88. Mode: MERGE. The time: 2 ms
+Power of the set: 15. Mode: MERGE. The time: 2 ms
+Power of the set: 56. Mode: EXCL. The time: 3 ms
+Power of the set: 45. Mode: EXCL. The time: 1 ms
+Power of the set: 46. Mode: EXCL. The time: 2 ms
+Power of the set: 50. Mode: EXCL. The time: 0 ms
+Power of the set: 29. Mode: MERGE. The time: 2 ms
+Power of the set: 38. Mode: EXCL. The time: 1 ms
+Power of the set: 86. Mode: MERGE. The time: 4 ms
+Power of the set: 23. Mode: MERGE. The time: 2 ms
+Power of the set: 21. Mode: MERGE. The time: 0 ms
+Power of the set: 76. Mode: MERGE. The time: 52 ms
+Power of the set: 101. Mode: EXCL. The time: 3 ms
+Power of the set: 62. Mode: EXCL. The time: 2 ms
+Power of the set: 63. Mode: MERGE. The time: 2 ms
+Power of the set: 50. Mode: EXCL. The time: 2 ms
+Power of the set: 56. Mode: MERGE. The time: 2 ms
+Number of iterations: 100. The global time: 355 ms
+0) Power of the set: 18. Mode: MERGE. The time: 0 ms
+1) Power of the set: 69. Mode: EXCL. The time: 1 ms
+2) Power of the set: 80. Mode: EXCL. The time: 1 ms
+3) Power of the set: 82. Mode: MERGE. The time: 2 ms
+4) Power of the set: 33. Mode: MERGE. The time: 1 ms
+5) Power of the set: 21. Mode: EXCL. The time: 0 ms
+6) Power of the set: 75. Mode: EXCL. The time: 0 ms
+7) Power of the set: 30. Mode: MERGE. The time: 1 ms
+8) Power of the set: 95. Mode: MERGE. The time: 2 ms
+9) Power of the set: 35. Mode: EXCL. The time: 0 ms
+10) Power of the set: 41. Mode: EXCL. The time: 0 ms
+11) Power of the set: 17. Mode: EXCL. The time: 0 ms
+12) Power of the set: 51. Mode: MERGE. The time: 1 ms
+13) Power of the set: 75. Mode: EXCL. The time: 1 ms
+14) Power of the set: 63. Mode: MERGE. The time: 2 ms
+15) Power of the set: 40. Mode: EXCL. The time: 0 ms
+16) Power of the set: 60. Mode: MERGE. The time: 1 ms
+17) Power of the set: 50. Mode: MERGE. The time: 1 ms
+18) Power of the set: 37. Mode: MERGE. The time: 1 ms
+19) Power of the set: 96. Mode: EXCL. The time: 0 ms
+20) Power of the set: 99. Mode: EXCL. The time: 0 ms
+21) Power of the set: 93. Mode: MERGE. The time: 2 ms
+22) Power of the set: 93. Mode: EXCL. The time: 0 ms
+23) Power of the set: 42. Mode: MERGE. The time: 0 ms
+24) Power of the set: 88. Mode: MERGE. The time: 3 ms
+25) Power of the set: 57. Mode: MERGE. The time: 1 ms
+26) Power of the set: 68. Mode: EXCL. The time: 0 ms
+27) Power of the set: 78. Mode: EXCL. The time: 1 ms
+28) Power of the set: 77. Mode: EXCL. The time: 1 ms
+29) Power of the set: 71. Mode: EXCL. The time: 0 ms
+30) Power of the set: 94. Mode: EXCL. The time: 0 ms
+31) Power of the set: 19. Mode: MERGE. The time: 0 ms
+32) Power of the set: 34. Mode: MERGE. The time: 0 ms
+33) Power of the set: 39. Mode: EXCL. The time: 1 ms
+34) Power of the set: 12. Mode: MERGE. The time: 0 ms
+35) Power of the set: 12. Mode: MERGE. The time: 0 ms
+36) Power of the set: 44. Mode: MERGE. The time: 2 ms
+37) Power of the set: 37. Mode: EXCL. The time: 0 ms
+38) Power of the set: 48. Mode: MERGE. The time: 1 ms
+39) Power of the set: 57. Mode: EXCL. The time: 0 ms
+40) Power of the set: 73. Mode: EXCL. The time: 1 ms
+41) Power of the set: 38. Mode: EXCL. The time: 0 ms
+42) Power of the set: 49. Mode: MERGE. The time: 1 ms
+43) Power of the set: 96. Mode: EXCL. The time: 1 ms
+44) Power of the set: 55. Mode: MERGE. The time: 0 ms
+45) Power of the set: 77. Mode: EXCL. The time: 1 ms
+46) Power of the set: 76. Mode: MERGE. The time: 2 ms
+47) Power of the set: 66. Mode: MERGE. The time: 2 ms
+48) Power of the set: 81. Mode: EXCL. The time: 1 ms
+49) Power of the set: 80. Mode: MERGE. The time: 1 ms
+50) Power of the set: 67. Mode: MERGE. The time: 2 ms
+51) Power of the set: 15. Mode: MERGE. The time: 0 ms
+52) Power of the set: 31. Mode: EXCL. The time: 0 ms
+53) Power of the set: 70. Mode: EXCL. The time: 0 ms
+54) Power of the set: 33. Mode: EXCL. The time: 0 ms
+55) Power of the set: 27. Mode: EXCL. The time: 0 ms
+56) Power of the set: 36. Mode: MERGE. The time: 1 ms
+57) Power of the set: 85. Mode: MERGE. The time: 1 ms
+58) Power of the set: 67. Mode: EXCL. The time: 0 ms
+59) Power of the set: 81. Mode: EXCL. The time: 1 ms
+60) Power of the set: 80. Mode: MERGE. The time: 0 ms
+61) Power of the set: 52. Mode: MERGE. The time: 1 ms
+62) Power of the set: 19. Mode: EXCL. The time: 0 ms
+63) Power of the set: 63. Mode: EXCL. The time: 0 ms
+64) Power of the set: 21. Mode: EXCL. The time: 0 ms
+65) Power of the set: 37. Mode: EXCL. The time: 0 ms
+66) Power of the set: 64. Mode: EXCL. The time: 1 ms
+67) Power of the set: 76. Mode: EXCL. The time: 0 ms
+68) Power of the set: 25. Mode: EXCL. The time: 0 ms
+69) Power of the set: 12. Mode: MERGE. The time: 0 ms
+70) Power of the set: 45. Mode: MERGE. The time: 0 ms
+71) Power of the set: 13. Mode: EXCL. The time: 0 ms
+72) Power of the set: 40. Mode: MERGE. The time: 0 ms
+73) Power of the set: 97. Mode: MERGE. The time: 3 ms
+74) Power of the set: 72. Mode: EXCL. The time: 0 ms
+75) Power of the set: 27. Mode: MERGE. The time: 1 ms
+76) Power of the set: 20. Mode: EXCL. The time: 0 ms
+77) Power of the set: 96. Mode: EXCL. The time: 1 ms
+78) Power of the set: 38. Mode: EXCL. The time: 0 ms
+79) Power of the set: 56. Mode: EXCL. The time: 0 ms
+80) Power of the set: 40. Mode: EXCL. The time: 1 ms
+81) Power of the set: 15. Mode: MERGE. The time: 0 ms
+82) Power of the set: 10. Mode: EXCL. The time: 0 ms
+83) Power of the set: 35. Mode: EXCL. The time: 0 ms
+84) Power of the set: 16. Mode: EXCL. The time: 0 ms
+85) Power of the set: 36. Mode: EXCL. The time: 0 ms
+86) Power of the set: 73. Mode: EXCL. The time: 0 ms
+87) Power of the set: 83. Mode: MERGE. The time: 2 ms
+88) Power of the set: 65. Mode: EXCL. The time: 0 ms
+89) Power of the set: 92. Mode: MERGE. The time: 2 ms
+90) Power of the set: 95. Mode: MERGE. The time: 1 ms
+91) Power of the set: 45. Mode: EXCL. The time: 0 ms
+92) Power of the set: 55. Mode: MERGE. The time: 1 ms
+93) Power of the set: 80. Mode: MERGE. The time: 2 ms
+94) Power of the set: 32. Mode: EXCL. The time: 0 ms
+95) Power of the set: 83. Mode: MERGE. The time: 0 ms
+96) Power of the set: 41. Mode: MERGE. The time: 2 ms
+97) Power of the set: 46. Mode: EXCL. The time: 0 ms
+98) Power of the set: 56. Mode: MERGE. The time: 0 ms
+99) Power of the set: 86. Mode: MERGE. The time: 1 ms
+Number of iterations: 100. The global time: 110 ms
+0) Power of the set: 100. The time: 5 ms
+1) Power of the set: 76. The time: 3 ms
+2) Power of the set: 83. The time: 1 ms
+3) Power of the set: 12. The time: 0 ms
+4) Power of the set: 56. The time: 2 ms
+5) Power of the set: 11. The time: 1 ms
+6) Power of the set: 26. The time: 0 ms
+7) Power of the set: 67. The time: 1 ms
+8) Power of the set: 68. The time: 2 ms
+9) Power of the set: 46. The time: 3 ms
+10) Power of the set: 58. The time: 2 ms
+11) Power of the set: 66. The time: 1 ms
+12) Power of the set: 87. The time: 2 ms
+13) Power of the set: 75. The time: 0 ms
+14) Power of the set: 65. The time: 0 ms
+15) Power of the set: 56. The time: 2 ms
+16) Power of the set: 35. The time: 0 ms
+17) Power of the set: 77. The time: 5 ms
+18) Power of the set: 86. The time: 2 ms
+19) Power of the set: 51. The time: 1 ms
+20) Power of the set: 70. The time: 1 ms
+21) Power of the set: 89. The time: 3 ms
+22) Power of the set: 87. The time: 3 ms
+23) Power of the set: 78. The time: 3 ms
+24) Power of the set: 10. The time: 1 ms
+25) Power of the set: 74. The time: 4 ms
+26) Power of the set: 31. The time: 1 ms
+27) Power of the set: 33. The time: 2 ms
+28) Power of the set: 85. The time: 0 ms
+29) Power of the set: 13. The time: 0 ms
+30) Power of the set: 35. The time: 1 ms
+31) Power of the set: 20. The time: 0 ms
+32) Power of the set: 86. The time: 2 ms
+33) Power of the set: 33. The time: 1 ms
+34) Power of the set: 76. The time: 5 ms
+35) Power of the set: 61. The time: 0 ms
+36) Power of the set: 49. The time: 1 ms
+37) Power of the set: 62. The time: 2 ms
+38) Power of the set: 75. The time: 0 ms
+39) Power of the set: 81. The time: 1 ms
+40) Power of the set: 48. The time: 3 ms
+41) Power of the set: 89. The time: 2 ms
+42) Power of the set: 10. The time: 0 ms
+43) Power of the set: 82. The time: 5 ms
+44) Power of the set: 10. The time: 0 ms
+45) Power of the set: 57. The time: 1 ms
+46) Power of the set: 53. The time: 5 ms
+47) Power of the set: 44. The time: 1 ms
+48) Power of the set: 31. The time: 2 ms
+49) Power of the set: 35. The time: 0 ms
+50) Power of the set: 92. The time: 3 ms
+51) Power of the set: 56. The time: 1 ms
+52) Power of the set: 42. The time: 1 ms
+53) Power of the set: 54. The time: 1 ms
+54) Power of the set: 64. The time: 3 ms
+55) Power of the set: 41. The time: 2 ms
+56) Power of the set: 87. The time: 1 ms
+57) Power of the set: 48. The time: 3 ms
+58) Power of the set: 56. The time: 0 ms
+59) Power of the set: 86. The time: 1 ms
+60) Power of the set: 23. The time: 0 ms
+61) Power of the set: 81. The time: 2 ms
+62) Power of the set: 33. The time: 1 ms
+63) Power of the set: 15. The time: 1 ms
+64) Power of the set: 30. The time: 0 ms
+65) Power of the set: 20. The time: 0 ms
+66) Power of the set: 31. The time: 1 ms
+67) Power of the set: 45. The time: 1 ms
+68) Power of the set: 89. The time: 4 ms
+69) Power of the set: 85. The time: 2 ms
+70) Power of the set: 93. The time: 1 ms
+71) Power of the set: 52. The time: 3 ms
+72) Power of the set: 52. The time: 3 ms
+73) Power of the set: 36. The time: 2 ms
+74) Power of the set: 45. The time: 1 ms
+75) Power of the set: 45. The time: 0 ms
+76) Power of the set: 94. The time: 3 ms
+77) Power of the set: 39. The time: 1 ms
+78) Power of the set: 31. The time: 2 ms
+79) Power of the set: 47. The time: 0 ms
+80) Power of the set: 54. The time: 3 ms
+81) Power of the set: 35. The time: 1 ms
+82) Power of the set: 19. The time: 1 ms
+83) Power of the set: 20. The time: 1 ms
+84) Power of the set: 41. The time: 2 ms
+85) Power of the set: 68. The time: 2 ms
+86) Power of the set: 62. The time: 2 ms
+87) Power of the set: 54. The time: 0 ms
+88) Power of the set: 53. The time: 1 ms
+89) Power of the set: 75. The time: 1 ms
+90) Power of the set: 86. The time: 4 ms
+91) Power of the set: 47. The time: 0 ms
+92) Power of the set: 60. The time: 1 ms
+93) Power of the set: 17. The time: 0 ms
+94) Power of the set: 41. The time: 1 ms
+95) Power of the set: 27. The time: 0 ms
+96) Power of the set: 30. The time: 2 ms
+97) Power of the set: 76. The time: 1 ms
+98) Power of the set: 49. The time: 5 ms
+99) Power of the set: 91. The time: 4 ms
+Number of iterations: 100. The global time: 219 ms
+0) Power of the set: 78. The time: 3 ms
+1) Power of the set: 86. The time: 4 ms
+2) Power of the set: 73. The time: 1 ms
+3) Power of the set: 56. The time: 3 ms
+4) Power of the set: 25. The time: 0 ms
+5) Power of the set: 27. The time: 1 ms
+6) Power of the set: 82. The time: 3 ms
+7) Power of the set: 50. The time: 1 ms
+8) Power of the set: 17. The time: 0 ms
+9) Power of the set: 97. The time: 3 ms
+10) Power of the set: 36. The time: 2 ms
+11) Power of the set: 11. The time: 0 ms
+12) Power of the set: 43. The time: 1 ms
+13) Power of the set: 77. The time: 2 ms
+14) Power of the set: 12. The time: 0 ms
+15) Power of the set: 76. The time: 0 ms
+16) Power of the set: 38. The time: 0 ms
+17) Power of the set: 38. The time: 1 ms
+18) Power of the set: 85. The time: 3 ms
+19) Power of the set: 41. The time: 0 ms
+20) Power of the set: 97. The time: 3 ms
+21) Power of the set: 14. The time: 1 ms
+22) Power of the set: 86. The time: 3 ms
+23) Power of the set: 14. The time: 0 ms
+24) Power of the set: 77. The time: 3 ms
+25) Power of the set: 50. The time: 3 ms
+26) Power of the set: 17. The time: 0 ms
+27) Power of the set: 84. The time: 4 ms
+28) Power of the set: 26. The time: 0 ms
+29) Power of the set: 25. The time: 3 ms
+30) Power of the set: 98. The time: 2 ms
+31) Power of the set: 19. The time: 0 ms
+32) Power of the set: 53. The time: 0 ms
+33) Power of the set: 73. The time: 1 ms
+34) Power of the set: 50. The time: 2 ms
+35) Power of the set: 27. The time: 1 ms
+36) Power of the set: 25. The time: 0 ms
+37) Power of the set: 75. The time: 1 ms
+38) Power of the set: 33. The time: 1 ms
+39) Power of the set: 82. The time: 3 ms
+40) Power of the set: 21. The time: 1 ms
+41) Power of the set: 38. The time: 1 ms
+42) Power of the set: 29. The time: 1 ms
+43) Power of the set: 89. The time: 2 ms
+44) Power of the set: 64. The time: 3 ms
+45) Power of the set: 27. The time: 1 ms
+46) Power of the set: 29. The time: 1 ms
+47) Power of the set: 43. The time: 1 ms
+48) Power of the set: 17. The time: 0 ms
+49) Power of the set: 73. The time: 1 ms
+50) Power of the set: 68. The time: 1 ms
+51) Power of the set: 35. The time: 2 ms
+52) Power of the set: 26. The time: 0 ms
+53) Power of the set: 34. The time: 1 ms
+54) Power of the set: 33. The time: 1 ms
+55) Power of the set: 22. The time: 1 ms
+56) Power of the set: 97. The time: 2 ms
+57) Power of the set: 14. The time: 2 ms
+58) Power of the set: 61. The time: 0 ms
+59) Power of the set: 96. The time: 2 ms
+60) Power of the set: 19. The time: 1 ms
+61) Power of the set: 61. The time: 1 ms
+62) Power of the set: 43. The time: 0 ms
+63) Power of the set: 24. The time: 0 ms
+64) Power of the set: 47. The time: 2 ms
+65) Power of the set: 66. The time: 2 ms
+66) Power of the set: 79. The time: 0 ms
+67) Power of the set: 31. The time: 0 ms
+68) Power of the set: 55. The time: 3 ms
+69) Power of the set: 21. The time: 0 ms
+70) Power of the set: 11. The time: 1 ms
+71) Power of the set: 43. The time: 2 ms
+72) Power of the set: 24. The time: 0 ms
+73) Power of the set: 18. The time: 1 ms
+74) Power of the set: 60. The time: 3 ms
+75) Power of the set: 95. The time: 3 ms
+76) Power of the set: 54. The time: 2 ms
+77) Power of the set: 13. The time: 1 ms
+78) Power of the set: 66. The time: 0 ms
+79) Power of the set: 32. The time: 1 ms
+80) Power of the set: 70. The time: 2 ms
+81) Power of the set: 34. The time: 3 ms
+82) Power of the set: 38. The time: 0 ms
+83) Power of the set: 35. The time: 1 ms
+84) Power of the set: 84. The time: 6 ms
+85) Power of the set: 41. The time: 0 ms
+86) Power of the set: 47. The time: 0 ms
+87) Power of the set: 26. The time: 0 ms
+88) Power of the set: 100. The time: 5 ms
+89) Power of the set: 21. The time: 0 ms
+90) Power of the set: 97. The time: 4 ms
+91) Power of the set: 29. The time: 0 ms
+92) Power of the set: 41. The time: 2 ms
+93) Power of the set: 54. The time: 1 ms
+94) Power of the set: 19. The time: 1 ms
+95) Power of the set: 98. The time: 2 ms
+96) Power of the set: 26. The time: 1 ms
+97) Power of the set: 40. The time: 2 ms
+98) Power of the set: 12. The time: 0 ms
+99) Power of the set: 69. The time: 2 ms
+Number of iterations: 100. The global time: 280 ms
+0) Power of the set: 75. The time: 5 ms
+1) Power of the set: 73. The time: 1 ms
+2) Power of the set: 15. The time: 0 ms
+3) Power of the set: 21. The time: 0 ms
+4) Power of the set: 16. The time: 0 ms
+5) Power of the set: 31. The time: 4 ms
+6) Power of the set: 29. The time: 2 ms
+7) Power of the set: 66. The time: 4 ms
+8) Power of the set: 54. The time: 3 ms
+9) Power of the set: 13. The time: 0 ms
+10) Power of the set: 66. The time: 2 ms
+11) Power of the set: 34. The time: 1 ms
+12) Power of the set: 65. The time: 4 ms
+13) Power of the set: 37. The time: 0 ms
+14) Power of the set: 38. The time: 1 ms
+15) Power of the set: 93. The time: 10 ms
+16) Power of the set: 13. The time: 1 ms
+17) Power of the set: 60. The time: 2 ms
+18) Power of the set: 39. The time: 1 ms
+19) Power of the set: 68. The time: 4 ms
+20) Power of the set: 84. The time: 2 ms
+21) Power of the set: 100. The time: 1 ms
+22) Power of the set: 33. The time: 2 ms
+23) Power of the set: 46. The time: 2 ms
+24) Power of the set: 43. The time: 3 ms
+25) Power of the set: 36. The time: 2 ms
+26) Power of the set: 61. The time: 3 ms
+27) Power of the set: 89. The time: 1 ms
+28) Power of the set: 86. The time: 6 ms
+29) Power of the set: 31. The time: 4 ms
+30) Power of the set: 50. The time: 3 ms
+31) Power of the set: 86. The time: 4 ms
+32) Power of the set: 34. The time: 2 ms
+33) Power of the set: 10. The time: 2 ms
+34) Power of the set: 44. The time: 0 ms
+35) Power of the set: 30. The time: 1 ms
+36) Power of the set: 52. The time: 2 ms
+37) Power of the set: 45. The time: 3 ms
+38) Power of the set: 95. The time: 2 ms
+39) Power of the set: 58. The time: 4 ms
+40) Power of the set: 59. The time: 2 ms
+41) Power of the set: 100. The time: 6 ms
+42) Power of the set: 73. The time: 4 ms
+43) Power of the set: 68. The time: 1 ms
+44) Power of the set: 48. The time: 2 ms
+45) Power of the set: 19. The time: 0 ms
+46) Power of the set: 86. The time: 2 ms
+47) Power of the set: 51. The time: 2 ms
+48) Power of the set: 35. The time: 0 ms
+49) Power of the set: 55. The time: 2 ms
+50) Power of the set: 25. The time: 3 ms
+51) Power of the set: 89. The time: 8 ms
+52) Power of the set: 73. The time: 3 ms
+53) Power of the set: 98. The time: 6 ms
+54) Power of the set: 82. The time: 2 ms
+55) Power of the set: 74. The time: 4 ms
+56) Power of the set: 33. The time: 2 ms
+57) Power of the set: 56. The time: 4 ms
+58) Power of the set: 68. The time: 5 ms
+59) Power of the set: 22. The time: 2 ms
+60) Power of the set: 78. The time: 1 ms
+61) Power of the set: 94. The time: 6 ms
+62) Power of the set: 40. The time: 3 ms
+63) Power of the set: 73. The time: 2 ms
+64) Power of the set: 58. The time: 2 ms
+65) Power of the set: 27. The time: 3 ms
+66) Power of the set: 93. The time: 5 ms
+67) Power of the set: 46. The time: 0 ms
+68) Power of the set: 69. The time: 2 ms
+69) Power of the set: 30. The time: 1 ms
+70) Power of the set: 28. The time: 0 ms
+71) Power of the set: 92. The time: 3 ms
+72) Power of the set: 89. The time: 4 ms
+73) Power of the set: 84. The time: 2 ms
+74) Power of the set: 22. The time: 2 ms
+75) Power of the set: 11. The time: 0 ms
+76) Power of the set: 85. The time: 3 ms
+77) Power of the set: 39. The time: 1 ms
+78) Power of the set: 94. The time: 5 ms
+79) Power of the set: 74. The time: 1 ms
+80) Power of the set: 30. The time: 2 ms
+81) Power of the set: 90. The time: 2 ms
+82) Power of the set: 56. The time: 3 ms
+83) Power of the set: 18. The time: 0 ms
+84) Power of the set: 38. The time: 2 ms
+85) Power of the set: 73. The time: 3 ms
+86) Power of the set: 40. The time: 1 ms
+87) Power of the set: 81. The time: 0 ms
+88) Power of the set: 59. The time: 4 ms
+89) Power of the set: 77. The time: 2 ms
+90) Power of the set: 99. The time: 6 ms
+91) Power of the set: 17. The time: 1 ms
+92) Power of the set: 52. The time: 1 ms
+93) Power of the set: 90. The time: 4 ms
+94) Power of the set: 61. The time: 4 ms
+95) Power of the set: 82. The time: 4 ms
+96) Power of the set: 10. The time: 0 ms
+97) Power of the set: 74. The time: 1 ms
+98) Power of the set: 60. The time: 2 ms
+99) Power of the set: 27. The time: 0 ms
+100) Power of the set: 95. The time: 2 ms
+101) Power of the set: 84. The time: 4 ms
+102) Power of the set: 52. The time: 0 ms
+103) Power of the set: 75. The time: 2 ms
+104) Power of the set: 81. The time: 3 ms
+105) Power of the set: 59. The time: 0 ms
+106) Power of the set: 21. The time: 2 ms
+107) Power of the set: 78. The time: 5 ms
+108) Power of the set: 82. The time: 4 ms
+109) Power of the set: 65. The time: 1 ms
+110) Power of the set: 16. The time: 0 ms
+111) Power of the set: 32. The time: 1 ms
+112) Power of the set: 55. The time: 0 ms
+113) Power of the set: 87. The time: 1 ms
+114) Power of the set: 15. The time: 0 ms
+115) Power of the set: 34. The time: 2 ms
+116) Power of the set: 72. The time: 2 ms
+117) Power of the set: 66. The time: 2 ms
+118) Power of the set: 16. The time: 2 ms
+119) Power of the set: 38. The time: 2 ms
+120) Power of the set: 73. The time: 4 ms
+121) Power of the set: 84. The time: 3 ms
+122) Power of the set: 59. The time: 3 ms
+123) Power of the set: 80. The time: 1 ms
+124) Power of the set: 75. The time: 1 ms
+125) Power of the set: 43. The time: 2 ms
+126) Power of the set: 56. The time: 2 ms
+127) Power of the set: 57. The time: 3 ms
+128) Power of the set: 33. The time: 2 ms
+129) Power of the set: 27. The time: 2 ms
+130) Power of the set: 80. The time: 1 ms
+131) Power of the set: 47. The time: 1 ms
+132) Power of the set: 30. The time: 0 ms
+133) Power of the set: 90. The time: 3 ms
+134) Power of the set: 64. The time: 3 ms
+135) Power of the set: 28. The time: 2 ms
+136) Power of the set: 16. The time: 1 ms
+137) Power of the set: 85. The time: 2 ms
+138) Power of the set: 29. The time: 2 ms
+139) Power of the set: 72. The time: 2 ms
+140) Power of the set: 43. The time: 0 ms
+141) Power of the set: 18. The time: 0 ms
+142) Power of the set: 30. The time: 0 ms
+143) Power of the set: 20. The time: 0 ms
+144) Power of the set: 39. The time: 0 ms
+145) Power of the set: 12. The time: 0 ms
+146) Power of the set: 79. The time: 3 ms
+147) Power of the set: 86. The time: 5 ms
+148) Power of the set: 70. The time: 2 ms
+149) Power of the set: 11. The time: 0 ms
+150) Power of the set: 83. The time: 4 ms
+151) Power of the set: 92. The time: 3 ms
+152) Power of the set: 71. The time: 3 ms
+153) Power of the set: 46. The time: 0 ms
+154) Power of the set: 86. The time: 6 ms
+155) Power of the set: 64. The time: 3 ms
+156) Power of the set: 94. The time: 5 ms
+157) Power of the set: 95. The time: 7 ms
+158) Power of the set: 52. The time: 2 ms
+159) Power of the set: 43. The time: 2 ms
+160) Power of the set: 62. The time: 0 ms
+161) Power of the set: 50. The time: 2 ms
+162) Power of the set: 54. The time: 2 ms
+163) Power of the set: 29. The time: 0 ms
+164) Power of the set: 32. The time: 1 ms
+165) Power of the set: 82. The time: 4 ms
+166) Power of the set: 16. The time: 1 ms
+167) Power of the set: 99. The time: 3 ms
+168) Power of the set: 12. The time: 0 ms
+169) Power of the set: 83. The time: 3 ms
+170) Power of the set: 73. The time: 2 ms
+171) Power of the set: 54. The time: 2 ms
+172) Power of the set: 74. The time: 2 ms
+173) Power of the set: 37. The time: 3 ms
+174) Power of the set: 27. The time: 1 ms
+175) Power of the set: 26. The time: 1 ms
+176) Power of the set: 30. The time: 1 ms
+177) Power of the set: 86. The time: 1 ms
+178) Power of the set: 53. The time: 4 ms
+179) Power of the set: 16. The time: 2 ms
+180) Power of the set: 52. The time: 1 ms
+181) Power of the set: 28. The time: 2 ms
+182) Power of the set: 90. The time: 6 ms
+183) Power of the set: 92. The time: 1 ms
+184) Power of the set: 44. The time: 2 ms
+185) Power of the set: 65. The time: 2 ms
+186) Power of the set: 18. The time: 0 ms
+187) Power of the set: 29. The time: 2 ms
+188) Power of the set: 36. The time: 1 ms
+189) Power of the set: 66. The time: 3 ms
+190) Power of the set: 50. The time: 2 ms
+191) Power of the set: 84. The time: 3 ms
+192) Power of the set: 64. The time: 2 ms
+193) Power of the set: 86. The time: 6 ms
+194) Power of the set: 57. The time: 4 ms
+195) Power of the set: 77. The time: 7 ms
+196) Power of the set: 89. The time: 6 ms
+197) Power of the set: 87. The time: 6 ms
+198) Power of the set: 80. The time: 6 ms
+199) Power of the set: 90. The time: 8 ms
+200) Power of the set: 70. The time: 1 ms
+201) Power of the set: 88. The time: 5 ms
+202) Power of the set: 74. The time: 5 ms
+203) Power of the set: 95. The time: 2 ms
+204) Power of the set: 60. The time: 1 ms
+205) Power of the set: 70. The time: 3 ms
+206) Power of the set: 90. The time: 4 ms
+207) Power of the set: 13. The time: 0 ms
+208) Power of the set: 71. The time: 5 ms
+209) Power of the set: 38. The time: 1 ms
+210) Power of the set: 44. The time: 3 ms
+211) Power of the set: 44. The time: 0 ms
+212) Power of the set: 30. The time: 2 ms
+213) Power of the set: 97. The time: 5 ms
+214) Power of the set: 67. The time: 6 ms
+215) Power of the set: 28. The time: 1 ms
+216) Power of the set: 20. The time: 3 ms
+217) Power of the set: 76. The time: 4 ms
+218) Power of the set: 95. The time: 3 ms
+219) Power of the set: 100. The time: 6 ms
+220) Power of the set: 92. The time: 4 ms
+221) Power of the set: 61. The time: 3 ms
+222) Power of the set: 89. The time: 3 ms
+223) Power of the set: 10. The time: 0 ms
+224) Power of the set: 45. The time: 2 ms
+225) Power of the set: 89. The time: 3 ms
+226) Power of the set: 28. The time: 0 ms
+227) Power of the set: 27. The time: 2 ms
+228) Power of the set: 69. The time: 4 ms
+229) Power of the set: 17. The time: 2 ms
+230) Power of the set: 20. The time: 2 ms
+231) Power of the set: 21. The time: 1 ms
+232) Power of the set: 21. The time: 2 ms
+233) Power of the set: 86. The time: 2 ms
+234) Power of the set: 67. The time: 3 ms
+235) Power of the set: 63. The time: 3 ms
+236) Power of the set: 85. The time: 2 ms
+237) Power of the set: 11. The time: 1 ms
+238) Power of the set: 92. The time: 4 ms
+239) Power of the set: 55. The time: 3 ms
+240) Power of the set: 39. The time: 2 ms
+241) Power of the set: 68. The time: 0 ms
+242) Power of the set: 46. The time: 1 ms
+243) Power of the set: 28. The time: 1 ms
+244) Power of the set: 49. The time: 2 ms
+245) Power of the set: 84. The time: 4 ms
+246) Power of the set: 47. The time: 5 ms
+247) Power of the set: 34. The time: 3 ms
+248) Power of the set: 33. The time: 0 ms
+249) Power of the set: 12. The time: 2 ms
+250) Power of the set: 56. The time: 0 ms
+251) Power of the set: 18. The time: 3 ms
+252) Power of the set: 43. The time: 3 ms
+253) Power of the set: 55. The time: 1 ms
+254) Power of the set: 19. The time: 3 ms
+255) Power of the set: 20. The time: 2 ms
+256) Power of the set: 21. The time: 1 ms
+257) Power of the set: 74. The time: 3 ms
+258) Power of the set: 52. The time: 5 ms
+259) Power of the set: 38. The time: 4 ms
+260) Power of the set: 89. The time: 3 ms
+261) Power of the set: 48. The time: 1 ms
+262) Power of the set: 74. The time: 3 ms
+263) Power of the set: 40. The time: 2 ms
+264) Power of the set: 64. The time: 2 ms
+265) Power of the set: 13. The time: 0 ms
+266) Power of the set: 41. The time: 2 ms
+267) Power of the set: 52. The time: 2 ms
+268) Power of the set: 76. The time: 2 ms
+269) Power of the set: 76. The time: 3 ms
+270) Power of the set: 96. The time: 3 ms
+271) Power of the set: 63. The time: 4 ms
+272) Power of the set: 90. The time: 7 ms
+273) Power of the set: 40. The time: 2 ms
+274) Power of the set: 55. The time: 1 ms
+275) Power of the set: 90. The time: 3 ms
+276) Power of the set: 48. The time: 1 ms
+277) Power of the set: 67. The time: 3 ms
+278) Power of the set: 89. The time: 4 ms
+279) Power of the set: 26. The time: 1 ms
+280) Power of the set: 71. The time: 1 ms
+281) Power of the set: 64. The time: 6 ms
+282) Power of the set: 46. The time: 3 ms
+283) Power of the set: 47. The time: 1 ms
+284) Power of the set: 74. The time: 2 ms
+285) Power of the set: 40. The time: 1 ms
+286) Power of the set: 54. The time: 1 ms
+287) Power of the set: 51. The time: 1 ms
+288) Power of the set: 41. The time: 2 ms
+289) Power of the set: 47. The time: 1 ms
+290) Power of the set: 56. The time: 1 ms
+291) Power of the set: 68. The time: 2 ms
+292) Power of the set: 81. The time: 6 ms
+293) Power of the set: 77. The time: 3 ms
+294) Power of the set: 93. The time: 5 ms
+295) Power of the set: 21. The time: 1 ms
+296) Power of the set: 66. The time: 1 ms
+297) Power of the set: 62. The time: 1 ms
+298) Power of the set: 66. The time: 0 ms
+299) Power of the set: 10. The time: 1 ms
+300) Power of the set: 14. The time: 0 ms
+301) Power of the set: 70. The time: 1 ms
+302) Power of the set: 45. The time: 3 ms
+303) Power of the set: 78. The time: 1 ms
+304) Power of the set: 15. The time: 0 ms
+305) Power of the set: 31. The time: 1 ms
+306) Power of the set: 15. The time: 1 ms
+307) Power of the set: 61. The time: 4 ms
+308) Power of the set: 39. The time: 3 ms
+309) Power of the set: 13. The time: 1 ms
+310) Power of the set: 69. The time: 6 ms
+311) Power of the set: 10. The time: 1 ms
+312) Power of the set: 80. The time: 1 ms
+313) Power of the set: 17. The time: 0 ms
+314) Power of the set: 47. The time: 1 ms
+315) Power of the set: 46. The time: 1 ms
+316) Power of the set: 59. The time: 2 ms
+317) Power of the set: 86. The time: 2 ms
+318) Power of the set: 26. The time: 1 ms
+319) Power of the set: 19. The time: 2 ms
+320) Power of the set: 15. The time: 1 ms
+321) Power of the set: 91. The time: 7 ms
+322) Power of the set: 24. The time: 1 ms
+323) Power of the set: 45. The time: 3 ms
+324) Power of the set: 90. The time: 1 ms
+325) Power of the set: 72. The time: 2 ms
+326) Power of the set: 17. The time: 2 ms
+327) Power of the set: 48. The time: 1 ms
+328) Power of the set: 86. The time: 5 ms
+329) Power of the set: 63. The time: 1 ms
+330) Power of the set: 41. The time: 1 ms
+331) Power of the set: 49. The time: 1 ms
+332) Power of the set: 76. The time: 3 ms
+333) Power of the set: 52. The time: 0 ms
+334) Power of the set: 87. The time: 3 ms
+335) Power of the set: 38. The time: 0 ms
+336) Power of the set: 44. The time: 2 ms
+337) Power of the set: 24. The time: 0 ms
+338) Power of the set: 24. The time: 0 ms
+339) Power of the set: 63. The time: 2 ms
+340) Power of the set: 30. The time: 1 ms
+341) Power of the set: 16. The time: 1 ms
+342) Power of the set: 27. The time: 1 ms
+343) Power of the set: 34. The time: 0 ms
+344) Power of the set: 73. The time: 2 ms
+345) Power of the set: 90. The time: 1 ms
+346) Power of the set: 24. The time: 0 ms
+347) Power of the set: 23. The time: 0 ms
+348) Power of the set: 52. The time: 1 ms
+349) Power of the set: 93. The time: 2 ms
+350) Power of the set: 37. The time: 1 ms
+351) Power of the set: 71. The time: 3 ms
+352) Power of the set: 12. The time: 0 ms
+353) Power of the set: 29. The time: 1 ms
+354) Power of the set: 46. The time: 0 ms
+355) Power of the set: 79. The time: 2 ms
+356) Power of the set: 87. The time: 4 ms
+357) Power of the set: 25. The time: 1 ms
+358) Power of the set: 50. The time: 1 ms
+359) Power of the set: 59. The time: 0 ms
+360) Power of the set: 34. The time: 1 ms
+361) Power of the set: 55. The time: 3 ms
+362) Power of the set: 10. The time: 2 ms
+363) Power of the set: 29. The time: 2 ms
+364) Power of the set: 91. The time: 3 ms
+365) Power of the set: 23. The time: 1 ms
+366) Power of the set: 61. The time: 4 ms
+367) Power of the set: 36. The time: 1 ms
+368) Power of the set: 81. The time: 2 ms
+369) Power of the set: 97. The time: 6 ms
+370) Power of the set: 92. The time: 4 ms
+371) Power of the set: 70. The time: 2 ms
+372) Power of the set: 61. The time: 3 ms
+373) Power of the set: 46. The time: 0 ms
+374) Power of the set: 67. The time: 1 ms
+375) Power of the set: 13. The time: 1 ms
+376) Power of the set: 53. The time: 4 ms
+377) Power of the set: 61. The time: 2 ms
+378) Power of the set: 59. The time: 2 ms
+379) Power of the set: 37. The time: 0 ms
+380) Power of the set: 97. The time: 2 ms
+381) Power of the set: 96. The time: 2 ms
+382) Power of the set: 73. The time: 3 ms
+383) Power of the set: 97. The time: 2 ms
+384) Power of the set: 15. The time: 1 ms
+385) Power of the set: 71. The time: 1 ms
+386) Power of the set: 58. The time: 3 ms
+387) Power of the set: 14. The time: 0 ms
+388) Power of the set: 36. The time: 1 ms
+389) Power of the set: 77. The time: 4 ms
+390) Power of the set: 16. The time: 2 ms
+391) Power of the set: 29. The time: 1 ms
+392) Power of the set: 27. The time: 1 ms
+393) Power of the set: 14. The time: 1 ms
+394) Power of the set: 94. The time: 3 ms
+395) Power of the set: 100. The time: 6 ms
+396) Power of the set: 17. The time: 1 ms
+397) Power of the set: 68. The time: 5 ms
+398) Power of the set: 96. The time: 6 ms
+399) Power of the set: 19. The time: 1 ms
+400) Power of the set: 47. The time: 2 ms
+401) Power of the set: 53. The time: 3 ms
+402) Power of the set: 71. The time: 2 ms
+403) Power of the set: 92. The time: 4 ms
+404) Power of the set: 46. The time: 1 ms
+405) Power of the set: 43. The time: 0 ms
+406) Power of the set: 66. The time: 4 ms
+407) Power of the set: 99. The time: 5 ms
+408) Power of the set: 69. The time: 2 ms
+409) Power of the set: 75. The time: 5 ms
+410) Power of the set: 95. The time: 3 ms
+411) Power of the set: 85. The time: 6 ms
+412) Power of the set: 77. The time: 5 ms
+413) Power of the set: 66. The time: 4 ms
+414) Power of the set: 40. The time: 3 ms
+415) Power of the set: 75. The time: 4 ms
+416) Power of the set: 44. The time: 1 ms
+417) Power of the set: 32. The time: 1 ms
+418) Power of the set: 59. The time: 2 ms
+419) Power of the set: 13. The time: 1 ms
+420) Power of the set: 88. The time: 2 ms
+421) Power of the set: 16. The time: 2 ms
+422) Power of the set: 79. The time: 3 ms
+423) Power of the set: 13. The time: 1 ms
+424) Power of the set: 30. The time: 1 ms
+425) Power of the set: 11. The time: 2 ms
+426) Power of the set: 59. The time: 2 ms
+427) Power of the set: 49. The time: 0 ms
+428) Power of the set: 51. The time: 2 ms
+429) Power of the set: 52. The time: 0 ms
+430) Power of the set: 67. The time: 2 ms
+431) Power of the set: 41. The time: 3 ms
+432) Power of the set: 25. The time: 1 ms
+433) Power of the set: 56. The time: 1 ms
+434) Power of the set: 60. The time: 2 ms
+435) Power of the set: 38. The time: 0 ms
+436) Power of the set: 94. The time: 8 ms
+437) Power of the set: 98. The time: 1 ms
+438) Power of the set: 27. The time: 2 ms
+439) Power of the set: 14. The time: 0 ms
+440) Power of the set: 25. The time: 1 ms
+441) Power of the set: 73. The time: 4 ms
+442) Power of the set: 70. The time: 1 ms
+443) Power of the set: 83. The time: 6 ms
+444) Power of the set: 13. The time: 1 ms
+445) Power of the set: 45. The time: 2 ms
+446) Power of the set: 19. The time: 1 ms
+447) Power of the set: 29. The time: 0 ms
+448) Power of the set: 53. The time: 2 ms
+449) Power of the set: 73. The time: 1 ms
+450) Power of the set: 40. The time: 3 ms
+451) Power of the set: 83. The time: 2 ms
+452) Power of the set: 43. The time: 3 ms
+453) Power of the set: 56. The time: 2 ms
+454) Power of the set: 88. The time: 3 ms
+455) Power of the set: 91. The time: 5 ms
+456) Power of the set: 99. The time: 3 ms
+457) Power of the set: 94. The time: 4 ms
+458) Power of the set: 66. The time: 4 ms
+459) Power of the set: 43. The time: 0 ms
+460) Power of the set: 93. The time: 2 ms
+461) Power of the set: 20. The time: 1 ms
+462) Power of the set: 92. The time: 6 ms
+463) Power of the set: 49. The time: 2 ms
+464) Power of the set: 48. The time: 1 ms
+465) Power of the set: 29. The time: 1 ms
+466) Power of the set: 76. The time: 4 ms
+467) Power of the set: 99. The time: 7 ms
+468) Power of the set: 46. The time: 0 ms
+469) Power of the set: 100. The time: 2 ms
+470) Power of the set: 31. The time: 1 ms
+471) Power of the set: 14. The time: 1 ms
+472) Power of the set: 63. The time: 3 ms
+473) Power of the set: 86. The time: 4 ms
+474) Power of the set: 18. The time: 1 ms
+475) Power of the set: 92. The time: 3 ms
+476) Power of the set: 20. The time: 2 ms
+477) Power of the set: 29. The time: 1 ms
+478) Power of the set: 17. The time: 1 ms
+479) Power of the set: 67. The time: 1 ms
+480) Power of the set: 12. The time: 0 ms
+481) Power of the set: 67. The time: 4 ms
+482) Power of the set: 59. The time: 0 ms
+483) Power of the set: 27. The time: 3 ms
+484) Power of the set: 89. The time: 2 ms
+485) Power of the set: 96. The time: 8 ms
+486) Power of the set: 99. The time: 6 ms
+487) Power of the set: 62. The time: 3 ms
+488) Power of the set: 56. The time: 4 ms
+489) Power of the set: 46. The time: 1 ms
+490) Power of the set: 74. The time: 1 ms
+491) Power of the set: 60. The time: 1 ms
+492) Power of the set: 28. The time: 1 ms
+493) Power of the set: 69. The time: 2 ms
+494) Power of the set: 34. The time: 0 ms
+495) Power of the set: 45. The time: 1 ms
+496) Power of the set: 27. The time: 2 ms
+497) Power of the set: 55. The time: 3 ms
+498) Power of the set: 89. The time: 7 ms
+499) Power of the set: 83. The time: 6 ms
+Number of iterations: 500. The global time: 1402 ms
+0) Power of the set: 40. The time: 0 ms
+1) Power of the set: 85. The time: 5 ms
+2) Power of the set: 74. The time: 2 ms
+3) Power of the set: 98. The time: 2 ms
+4) Power of the set: 93. The time: 1 ms
+5) Power of the set: 86. The time: 6 ms
+6) Power of the set: 97. The time: 6 ms
+7) Power of the set: 33. The time: 0 ms
+8) Power of the set: 60. The time: 1 ms
+9) Power of the set: 35. The time: 0 ms
+10) Power of the set: 11. The time: 1 ms
+11) Power of the set: 39. The time: 1 ms
+12) Power of the set: 11. The time: 2 ms
+13) Power of the set: 54. The time: 1 ms
+14) Power of the set: 99. The time: 4 ms
+15) Power of the set: 45. The time: 1 ms
+16) Power of the set: 58. The time: 2 ms
+17) Power of the set: 43. The time: 1 ms
+18) Power of the set: 99. The time: 1 ms
+19) Power of the set: 86. The time: 4 ms
+20) Power of the set: 74. The time: 3 ms
+21) Power of the set: 46. The time: 2 ms
+22) Power of the set: 55. The time: 1 ms
+23) Power of the set: 88. The time: 8 ms
+24) Power of the set: 17. The time: 2 ms
+25) Power of the set: 81. The time: 1 ms
+26) Power of the set: 85. The time: 4 ms
+27) Power of the set: 51. The time: 3 ms
+28) Power of the set: 57. The time: 0 ms
+29) Power of the set: 90. The time: 5 ms
+30) Power of the set: 13. The time: 0 ms
+31) Power of the set: 75. The time: 3 ms
+32) Power of the set: 70. The time: 5 ms
+33) Power of the set: 69. The time: 3 ms
+34) Power of the set: 85. The time: 1 ms
+35) Power of the set: 71. The time: 2 ms
+36) Power of the set: 57. The time: 3 ms
+37) Power of the set: 70. The time: 4 ms
+38) Power of the set: 62. The time: 0 ms
+39) Power of the set: 71. The time: 1 ms
+40) Power of the set: 30. The time: 1 ms
+41) Power of the set: 74. The time: 2 ms
+42) Power of the set: 66. The time: 1 ms
+43) Power of the set: 29. The time: 1 ms
+44) Power of the set: 80. The time: 1 ms
+45) Power of the set: 51. The time: 1 ms
+46) Power of the set: 10. The time: 0 ms
+47) Power of the set: 52. The time: 2 ms
+48) Power of the set: 11. The time: 0 ms
+49) Power of the set: 30. The time: 1 ms
+50) Power of the set: 65. The time: 3 ms
+51) Power of the set: 46. The time: 1 ms
+52) Power of the set: 80. The time: 4 ms
+53) Power of the set: 11. The time: 1 ms
+54) Power of the set: 73. The time: 3 ms
+55) Power of the set: 53. The time: 2 ms
+56) Power of the set: 96. The time: 4 ms
+57) Power of the set: 31. The time: 1 ms
+58) Power of the set: 43. The time: 1 ms
+59) Power of the set: 65. The time: 2 ms
+60) Power of the set: 45. The time: 1 ms
+61) Power of the set: 70. The time: 2 ms
+62) Power of the set: 65. The time: 2 ms
+63) Power of the set: 95. The time: 2 ms
+64) Power of the set: 98. The time: 3 ms
+65) Power of the set: 62. The time: 3 ms
+66) Power of the set: 66. The time: 3 ms
+67) Power of the set: 70. The time: 2 ms
+68) Power of the set: 98. The time: 2 ms
+69) Power of the set: 92. The time: 3 ms
+70) Power of the set: 81. The time: 3 ms
+71) Power of the set: 85. The time: 2 ms
+72) Power of the set: 34. The time: 1 ms
+73) Power of the set: 36. The time: 1 ms
+74) Power of the set: 49. The time: 2 ms
+75) Power of the set: 85. The time: 4 ms
+76) Power of the set: 71. The time: 4 ms
+77) Power of the set: 27. The time: 1 ms
+78) Power of the set: 50. The time: 3 ms
+79) Power of the set: 54. The time: 3 ms
+80) Power of the set: 98. The time: 4 ms
+81) Power of the set: 33. The time: 0 ms
+82) Power of the set: 67. The time: 2 ms
+83) Power of the set: 59. The time: 2 ms
+84) Power of the set: 22. The time: 0 ms
+85) Power of the set: 14. The time: 0 ms
+86) Power of the set: 50. The time: 3 ms
+87) Power of the set: 44. The time: 1 ms
+88) Power of the set: 43. The time: 3 ms
+89) Power of the set: 29. The time: 2 ms
+90) Power of the set: 79. The time: 2 ms
+91) Power of the set: 83. The time: 3 ms
+92) Power of the set: 58. The time: 3 ms
+93) Power of the set: 40. The time: 3 ms
+94) Power of the set: 60. The time: 2 ms
+95) Power of the set: 33. The time: 2 ms
+96) Power of the set: 76. The time: 5 ms
+97) Power of the set: 67. The time: 3 ms
+98) Power of the set: 90. The time: 2 ms
+99) Power of the set: 24. The time: 0 ms
+100) Power of the set: 79. The time: 7 ms
+101) Power of the set: 85. The time: 1 ms
+102) Power of the set: 96. The time: 2 ms
+103) Power of the set: 34. The time: 1 ms
+104) Power of the set: 94. The time: 3 ms
+105) Power of the set: 26. The time: 2 ms
+106) Power of the set: 13. The time: 2 ms
+107) Power of the set: 79. The time: 6 ms
+108) Power of the set: 56. The time: 1 ms
+109) Power of the set: 16. The time: 0 ms
+110) Power of the set: 63. The time: 1 ms
+111) Power of the set: 49. The time: 3 ms
+112) Power of the set: 59. The time: 1 ms
+113) Power of the set: 24. The time: 2 ms
+114) Power of the set: 75. The time: 2 ms
+115) Power of the set: 21. The time: 1 ms
+116) Power of the set: 87. The time: 4 ms
+117) Power of the set: 73. The time: 4 ms
+118) Power of the set: 27. The time: 0 ms
+119) Power of the set: 35. The time: 0 ms
+120) Power of the set: 31. The time: 2 ms
+121) Power of the set: 65. The time: 5 ms
+122) Power of the set: 41. The time: 1 ms
+123) Power of the set: 72. The time: 2 ms
+124) Power of the set: 20. The time: 2 ms
+125) Power of the set: 84. The time: 3 ms
+126) Power of the set: 76. The time: 3 ms
+127) Power of the set: 34. The time: 1 ms
+128) Power of the set: 20. The time: 0 ms
+129) Power of the set: 98. The time: 3 ms
+130) Power of the set: 100. The time: 3 ms
+131) Power of the set: 79. The time: 4 ms
+132) Power of the set: 50. The time: 3 ms
+133) Power of the set: 65. The time: 2 ms
+134) Power of the set: 30. The time: 1 ms
+135) Power of the set: 90. The time: 2 ms
+136) Power of the set: 28. The time: 1 ms
+137) Power of the set: 62. The time: 1 ms
+138) Power of the set: 27. The time: 0 ms
+139) Power of the set: 12. The time: 2 ms
+140) Power of the set: 32. The time: 4 ms
+141) Power of the set: 53. The time: 1 ms
+142) Power of the set: 27. The time: 1 ms
+143) Power of the set: 64. The time: 2 ms
+144) Power of the set: 58. The time: 1 ms
+145) Power of the set: 13. The time: 1 ms
+146) Power of the set: 76. The time: 3 ms
+147) Power of the set: 80. The time: 2 ms
+148) Power of the set: 13. The time: 1 ms
+149) Power of the set: 29. The time: 0 ms
+150) Power of the set: 12. The time: 1 ms
+151) Power of the set: 87. The time: 5 ms
+152) Power of the set: 41. The time: 2 ms
+153) Power of the set: 12. The time: 2 ms
+154) Power of the set: 75. The time: 2 ms
+155) Power of the set: 77. The time: 3 ms
+156) Power of the set: 39. The time: 1 ms
+157) Power of the set: 41. The time: 1 ms
+158) Power of the set: 20. The time: 2 ms
+159) Power of the set: 48. The time: 2 ms
+160) Power of the set: 67. The time: 2 ms
+161) Power of the set: 76. The time: 2 ms
+162) Power of the set: 23. The time: 1 ms
+163) Power of the set: 27. The time: 1 ms
+164) Power of the set: 31. The time: 1 ms
+165) Power of the set: 66. The time: 4 ms
+166) Power of the set: 83. The time: 7 ms
+167) Power of the set: 60. The time: 2 ms
+168) Power of the set: 93. The time: 8 ms
+169) Power of the set: 78. The time: 4 ms
+170) Power of the set: 11. The time: 1 ms
+171) Power of the set: 40. The time: 1 ms
+172) Power of the set: 43. The time: 1 ms
+173) Power of the set: 41. The time: 1 ms
+174) Power of the set: 15. The time: 1 ms
+175) Power of the set: 38. The time: 3 ms
+176) Power of the set: 78. The time: 1 ms
+177) Power of the set: 80. The time: 6 ms
+178) Power of the set: 32. The time: 2 ms
+179) Power of the set: 38. The time: 1 ms
+180) Power of the set: 84. The time: 6 ms
+181) Power of the set: 39. The time: 2 ms
+182) Power of the set: 90. The time: 6 ms
+183) Power of the set: 47. The time: 1 ms
+184) Power of the set: 43. The time: 2 ms
+185) Power of the set: 44. The time: 4 ms
+186) Power of the set: 19. The time: 2 ms
+187) Power of the set: 37. The time: 1 ms
+188) Power of the set: 51. The time: 3 ms
+189) Power of the set: 55. The time: 3 ms
+190) Power of the set: 82. The time: 2 ms
+191) Power of the set: 54. The time: 1 ms
+192) Power of the set: 29. The time: 1 ms
+193) Power of the set: 53. The time: 2 ms
+194) Power of the set: 13. The time: 0 ms
+195) Power of the set: 79. The time: 4 ms
+196) Power of the set: 85. The time: 2 ms
+197) Power of the set: 85. The time: 6 ms
+198) Power of the set: 64. The time: 1 ms
+199) Power of the set: 36. The time: 1 ms
+200) Power of the set: 28. The time: 2 ms
+201) Power of the set: 77. The time: 7 ms
+202) Power of the set: 88. The time: 4 ms
+203) Power of the set: 35. The time: 1 ms
+204) Power of the set: 80. The time: 4 ms
+205) Power of the set: 15. The time: 1 ms
+206) Power of the set: 48. The time: 1 ms
+207) Power of the set: 33. The time: 1 ms
+208) Power of the set: 76. The time: 4 ms
+209) Power of the set: 83. The time: 0 ms
+210) Power of the set: 82. The time: 1 ms
+211) Power of the set: 51. The time: 1 ms
+212) Power of the set: 35. The time: 1 ms
+213) Power of the set: 84. The time: 1 ms
+214) Power of the set: 35. The time: 0 ms
+215) Power of the set: 81. The time: 2 ms
+216) Power of the set: 54. The time: 1 ms
+217) Power of the set: 80. The time: 1 ms
+218) Power of the set: 56. The time: 3 ms
+219) Power of the set: 24. The time: 1 ms
+220) Power of the set: 31. The time: 1 ms
+221) Power of the set: 91. The time: 5 ms
+222) Power of the set: 79. The time: 4 ms
+223) Power of the set: 17. The time: 0 ms
+224) Power of the set: 16. The time: 1 ms
+225) Power of the set: 71. The time: 3 ms
+226) Power of the set: 90. The time: 3 ms
+227) Power of the set: 51. The time: 1 ms
+228) Power of the set: 73. The time: 2 ms
+229) Power of the set: 53. The time: 1 ms
+230) Power of the set: 23. The time: 0 ms
+231) Power of the set: 42. The time: 1 ms
+232) Power of the set: 38. The time: 0 ms
+233) Power of the set: 48. The time: 2 ms
+234) Power of the set: 30. The time: 1 ms
+235) Power of the set: 79. The time: 4 ms
+236) Power of the set: 89. The time: 4 ms
+237) Power of the set: 94. The time: 3 ms
+238) Power of the set: 59. The time: 1 ms
+239) Power of the set: 71. The time: 1 ms
+240) Power of the set: 42. The time: 1 ms
+241) Power of the set: 80. The time: 2 ms
+242) Power of the set: 53. The time: 1 ms
+243) Power of the set: 48. The time: 0 ms
+244) Power of the set: 95. The time: 2 ms
+245) Power of the set: 88. The time: 1 ms
+246) Power of the set: 75. The time: 4 ms
+247) Power of the set: 85. The time: 2 ms
+248) Power of the set: 64. The time: 0 ms
+249) Power of the set: 15. The time: 1 ms
+250) Power of the set: 73. The time: 3 ms
+251) Power of the set: 94. The time: 3 ms
+252) Power of the set: 47. The time: 0 ms
+253) Power of the set: 32. The time: 2 ms
+254) Power of the set: 22. The time: 1 ms
+255) Power of the set: 49. The time: 2 ms
+256) Power of the set: 11. The time: 0 ms
+257) Power of the set: 15. The time: 0 ms
+258) Power of the set: 57. The time: 0 ms
+259) Power of the set: 79. The time: 3 ms
+260) Power of the set: 77. The time: 5 ms
+261) Power of the set: 75. The time: 2 ms
+262) Power of the set: 12. The time: 0 ms
+263) Power of the set: 93. The time: 4 ms
+264) Power of the set: 19. The time: 0 ms
+265) Power of the set: 32. The time: 0 ms
+266) Power of the set: 63. The time: 1 ms
+267) Power of the set: 93. The time: 4 ms
+268) Power of the set: 52. The time: 1 ms
+269) Power of the set: 90. The time: 3 ms
+270) Power of the set: 100. The time: 3 ms
+271) Power of the set: 43. The time: 0 ms
+272) Power of the set: 10. The time: 1 ms
+273) Power of the set: 72. The time: 2 ms
+274) Power of the set: 46. The time: 1 ms
+275) Power of the set: 61. The time: 2 ms
+276) Power of the set: 62. The time: 2 ms
+277) Power of the set: 22. The time: 0 ms
+278) Power of the set: 50. The time: 1 ms
+279) Power of the set: 92. The time: 2 ms
+280) Power of the set: 22. The time: 1 ms
+281) Power of the set: 38. The time: 0 ms
+282) Power of the set: 49. The time: 2 ms
+283) Power of the set: 99. The time: 3 ms
+284) Power of the set: 63. The time: 1 ms
+285) Power of the set: 35. The time: 2 ms
+286) Power of the set: 57. The time: 2 ms
+287) Power of the set: 58. The time: 3 ms
+288) Power of the set: 24. The time: 1 ms
+289) Power of the set: 65. The time: 0 ms
+290) Power of the set: 94. The time: 2 ms
+291) Power of the set: 53. The time: 1 ms
+292) Power of the set: 24. The time: 1 ms
+293) Power of the set: 24. The time: 0 ms
+294) Power of the set: 54. The time: 1 ms
+295) Power of the set: 57. The time: 3 ms
+296) Power of the set: 34. The time: 0 ms
+297) Power of the set: 25. The time: 1 ms
+298) Power of the set: 44. The time: 1 ms
+299) Power of the set: 23. The time: 1 ms
+300) Power of the set: 87. The time: 3 ms
+301) Power of the set: 56. The time: 2 ms
+302) Power of the set: 89. The time: 1 ms
+303) Power of the set: 67. The time: 2 ms
+304) Power of the set: 19. The time: 0 ms
+305) Power of the set: 31. The time: 0 ms
+306) Power of the set: 59. The time: 3 ms
+307) Power of the set: 82. The time: 2 ms
+308) Power of the set: 51. The time: 1 ms
+309) Power of the set: 31. The time: 1 ms
+310) Power of the set: 88. The time: 2 ms
+311) Power of the set: 67. The time: 1 ms
+312) Power of the set: 99. The time: 2 ms
+313) Power of the set: 60. The time: 0 ms
+314) Power of the set: 88. The time: 0 ms
+315) Power of the set: 44. The time: 2 ms
+316) Power of the set: 54. The time: 2 ms
+317) Power of the set: 17. The time: 2 ms
+318) Power of the set: 63. The time: 2 ms
+319) Power of the set: 33. The time: 1 ms
+320) Power of the set: 47. The time: 2 ms
+321) Power of the set: 11. The time: 1 ms
+322) Power of the set: 39. The time: 1 ms
+323) Power of the set: 26. The time: 0 ms
+324) Power of the set: 12. The time: 0 ms
+325) Power of the set: 94. The time: 5 ms
+326) Power of the set: 41. The time: 1 ms
+327) Power of the set: 87. The time: 6 ms
+328) Power of the set: 54. The time: 1 ms
+329) Power of the set: 73. The time: 5 ms
+330) Power of the set: 30. The time: 1 ms
+331) Power of the set: 76. The time: 2 ms
+332) Power of the set: 41. The time: 0 ms
+333) Power of the set: 34. The time: 2 ms
+334) Power of the set: 66. The time: 2 ms
+335) Power of the set: 56. The time: 1 ms
+336) Power of the set: 77. The time: 2 ms
+337) Power of the set: 68. The time: 1 ms
+338) Power of the set: 38. The time: 1 ms
+339) Power of the set: 63. The time: 0 ms
+340) Power of the set: 41. The time: 2 ms
+341) Power of the set: 44. The time: 3 ms
+342) Power of the set: 16. The time: 0 ms
+343) Power of the set: 16. The time: 0 ms
+344) Power of the set: 52. The time: 1 ms
+345) Power of the set: 98. The time: 6 ms
+346) Power of the set: 34. The time: 1 ms
+347) Power of the set: 58. The time: 0 ms
+348) Power of the set: 90. The time: 3 ms
+349) Power of the set: 21. The time: 0 ms
+350) Power of the set: 78. The time: 6 ms
+351) Power of the set: 92. The time: 4 ms
+352) Power of the set: 97. The time: 3 ms
+353) Power of the set: 60. The time: 1 ms
+354) Power of the set: 69. The time: 2 ms
+355) Power of the set: 72. The time: 3 ms
+356) Power of the set: 62. The time: 2 ms
+357) Power of the set: 26. The time: 0 ms
+358) Power of the set: 73. The time: 1 ms
+359) Power of the set: 73. The time: 3 ms
+360) Power of the set: 22. The time: 2 ms
+361) Power of the set: 34. The time: 1 ms
+362) Power of the set: 41. The time: 1 ms
+363) Power of the set: 10. The time: 2 ms
+364) Power of the set: 13. The time: 0 ms
+365) Power of the set: 42. The time: 0 ms
+366) Power of the set: 69. The time: 4 ms
+367) Power of the set: 43. The time: 1 ms
+368) Power of the set: 72. The time: 3 ms
+369) Power of the set: 35. The time: 0 ms
+370) Power of the set: 84. The time: 5 ms
+371) Power of the set: 44. The time: 2 ms
+372) Power of the set: 34. The time: 0 ms
+373) Power of the set: 56. The time: 0 ms
+374) Power of the set: 63. The time: 1 ms
+375) Power of the set: 18. The time: 1 ms
+376) Power of the set: 76. The time: 2 ms
+377) Power of the set: 73. The time: 0 ms
+378) Power of the set: 12. The time: 1 ms
+379) Power of the set: 94. The time: 3 ms
+380) Power of the set: 24. The time: 0 ms
+381) Power of the set: 100. The time: 3 ms
+382) Power of the set: 60. The time: 3 ms
+383) Power of the set: 72. The time: 1 ms
+384) Power of the set: 42. The time: 0 ms
+385) Power of the set: 72. The time: 3 ms
+386) Power of the set: 70. The time: 2 ms
+387) Power of the set: 59. The time: 2 ms
+388) Power of the set: 18. The time: 1 ms
+389) Power of the set: 81. The time: 4 ms
+390) Power of the set: 37. The time: 1 ms
+391) Power of the set: 98. The time: 1 ms
+392) Power of the set: 13. The time: 2 ms
+393) Power of the set: 90. The time: 3 ms
+394) Power of the set: 78. The time: 1 ms
+395) Power of the set: 73. The time: 6 ms
+396) Power of the set: 30. The time: 0 ms
+397) Power of the set: 62. The time: 4 ms
+398) Power of the set: 30. The time: 1 ms
+399) Power of the set: 90. The time: 5 ms
+400) Power of the set: 76. The time: 1 ms
+401) Power of the set: 69. The time: 6 ms
+402) Power of the set: 15. The time: 2 ms
+403) Power of the set: 94. The time: 0 ms
+404) Power of the set: 85. The time: 4 ms
+405) Power of the set: 72. The time: 1 ms
+406) Power of the set: 62. The time: 6 ms
+407) Power of the set: 29. The time: 2 ms
+408) Power of the set: 45. The time: 3 ms
+409) Power of the set: 87. The time: 4 ms
+410) Power of the set: 71. The time: 3 ms
+411) Power of the set: 71. The time: 1 ms
+412) Power of the set: 53. The time: 2 ms
+413) Power of the set: 80. The time: 1 ms
+414) Power of the set: 89. The time: 2 ms
+415) Power of the set: 75. The time: 3 ms
+416) Power of the set: 63. The time: 0 ms
+417) Power of the set: 12. The time: 0 ms
+418) Power of the set: 16. The time: 1 ms
+419) Power of the set: 44. The time: 3 ms
+420) Power of the set: 86. The time: 2 ms
+421) Power of the set: 37. The time: 0 ms
+422) Power of the set: 17. The time: 0 ms
+423) Power of the set: 64. The time: 0 ms
+424) Power of the set: 69. The time: 1 ms
+425) Power of the set: 52. The time: 0 ms
+426) Power of the set: 70. The time: 1 ms
+427) Power of the set: 85. The time: 3 ms
+428) Power of the set: 46. The time: 0 ms
+429) Power of the set: 28. The time: 2 ms
+430) Power of the set: 43. The time: 1 ms
+431) Power of the set: 43. The time: 0 ms
+432) Power of the set: 97. The time: 4 ms
+433) Power of the set: 58. The time: 2 ms
+434) Power of the set: 20. The time: 0 ms
+435) Power of the set: 33. The time: 2 ms
+436) Power of the set: 79. The time: 1 ms
+437) Power of the set: 73. The time: 0 ms
+438) Power of the set: 63. The time: 0 ms
+439) Power of the set: 41. The time: 3 ms
+440) Power of the set: 35. The time: 0 ms
+441) Power of the set: 18. The time: 1 ms
+442) Power of the set: 42. The time: 2 ms
+443) Power of the set: 99. The time: 4 ms
+444) Power of the set: 57. The time: 3 ms
+445) Power of the set: 52. The time: 0 ms
+446) Power of the set: 71. The time: 3 ms
+447) Power of the set: 72. The time: 2 ms
+448) Power of the set: 44. The time: 3 ms
+449) Power of the set: 96. The time: 3 ms
+450) Power of the set: 25. The time: 1 ms
+451) Power of the set: 53. The time: 2 ms
+452) Power of the set: 18. The time: 0 ms
+453) Power of the set: 21. The time: 0 ms
+454) Power of the set: 30. The time: 1 ms
+455) Power of the set: 94. The time: 1 ms
+456) Power of the set: 90. The time: 5 ms
+457) Power of the set: 62. The time: 1 ms
+458) Power of the set: 71. The time: 4 ms
+459) Power of the set: 97. The time: 4 ms
+460) Power of the set: 69. The time: 1 ms
+461) Power of the set: 93. The time: 2 ms
+462) Power of the set: 70. The time: 4 ms
+463) Power of the set: 39. The time: 4 ms
+464) Power of the set: 13. The time: 1 ms
+465) Power of the set: 76. The time: 6 ms
+466) Power of the set: 38. The time: 3 ms
+467) Power of the set: 89. The time: 2 ms
+468) Power of the set: 37. The time: 1 ms
+469) Power of the set: 14. The time: 0 ms
+470) Power of the set: 74. The time: 0 ms
+471) Power of the set: 19. The time: 0 ms
+472) Power of the set: 29. The time: 2 ms
+473) Power of the set: 21. The time: 0 ms
+474) Power of the set: 48. The time: 0 ms
+475) Power of the set: 45. The time: 1 ms
+476) Power of the set: 78. The time: 3 ms
+477) Power of the set: 98. The time: 1 ms
+478) Power of the set: 30. The time: 1 ms
+479) Power of the set: 50. The time: 1 ms
+480) Power of the set: 31. The time: 0 ms
+481) Power of the set: 13. The time: 2 ms
+482) Power of the set: 99. The time: 5 ms
+483) Power of the set: 69. The time: 4 ms
+484) Power of the set: 56. The time: 0 ms
+485) Power of the set: 59. The time: 0 ms
+486) Power of the set: 80. The time: 2 ms
+487) Power of the set: 98. The time: 5 ms
+488) Power of the set: 61. The time: 4 ms
+489) Power of the set: 69. The time: 2 ms
+490) Power of the set: 96. The time: 5 ms
+491) Power of the set: 62. The time: 3 ms
+492) Power of the set: 32. The time: 3 ms
+493) Power of the set: 96. The time: 4 ms
+494) Power of the set: 95. The time: 6 ms
+495) Power of the set: 68. The time: 3 ms
+496) Power of the set: 46. The time: 0 ms
+497) Power of the set: 29. The time: 0 ms
+498) Power of the set: 18. The time: 1 ms
+499) Power of the set: 31. The time: 1 ms
+Number of iterations: 500. The global time: 1379 ms
